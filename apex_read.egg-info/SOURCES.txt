@@ -1,0 +1,6 @@
+README.md
+setup.py
+apex_read.egg-info/PKG-INFO
+apex_read.egg-info/SOURCES.txt
+apex_read.egg-info/dependency_links.txt
+apex_read.egg-info/top_level.txt

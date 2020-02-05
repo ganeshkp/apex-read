@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: apex-read
+Version: 0.1
+Summary: Reads Apex files and provides required information
+Home-page: https://github.com/ganeshkp/apex-read
+Author: Ganeshkumar Patil
+Author-email: ganeshkumar.patil@gmail.com
+License: UNKNOWN
+Description: # Example Package
+        
+        This package reads apex log file and provide required information.
+        
+        You can also refer below link:
+        https://github.com/ganeshkp/apex-read
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
