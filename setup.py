@@ -3,6 +3,7 @@ import setuptools
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
+#THIS IS SETUP CONFIGURATION
 setuptools.setup(
     name="apex-read",
     version="0.1",
